@@ -1,73 +1,82 @@
-# Welcome to your Lovable project
+# StyroFoam Philippines
 
-## Project info
+## Overview
+**StyroFoam Philippines** is the leading manufacturer of high-quality **Expanded Polystyrene (EPS)** products in the Philippines. With over **20 years of experience**, StyroFoam delivers innovative foam solutions for **packaging, construction, and insulation**. The company is trusted by leading businesses nationwide for premium quality and sustainable practices.
 
-**URL**: https://lovable.dev/projects/fea4484c-e71e-4ed0-95c8-f6e62faf1590
+---
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/fea4484c-e71e-4ed0-95c8-f6e62faf1590) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
+## What Technologies Are Used for This Project?
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **[Vite](https://vitejs.dev/)** – Frontend build tool for fast development  
+- **[TypeScript](https://www.typescriptlang.org/)** – For type-safe JavaScript  
+- **[React](https://reactjs.org/)** – Frontend library for building UI components  
+- **[shadcn-ui](https://ui.shadcn.com/)** – Modern component library  
+- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS framework for styling  
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/fea4484c-e71e-4ed0-95c8-f6e62faf1590) and click on Share -> Publish.
+## Key Highlights
 
-## Can I connect a custom domain to my Lovable project?
+- **20+ Years of Excellence** in EPS manufacturing  
+- **500+ Clients Served** across diverse industries  
+- **50M+ Products Made** for packaging, construction, and insulation  
+- **ISO Certified** quality management system  
+- **Eco-Friendly** manufacturing processes  
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## About StyroFoam
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+StyroFoam Philippines has been at the forefront of EPS manufacturing for over two decades. The company provides **innovative, high-quality foam solutions** for multiple industries:
+
+- **Packaging** – Custom protective packaging for electronics, appliances, and fragile goods  
+- **Construction** – Structural EPS boards and blocks for insulated concrete forms and lightweight fill  
+- **Insulation** – Thermal insulation panels for residential and commercial buildings  
+- **Custom Solutions** – Bespoke EPS products tailored to specific requirements, from prototypes to large-scale production  
+
+**Facility & Team**  
+
+- 10,000 sq.m. state-of-the-art manufacturing facility  
+- ISO-certified quality management system  
+- 200+ skilled team members  
+- 15+ industry awards  
+- Nationwide delivery coverage  
+
+---
+
+## Our Products
+
+### Packaging Solutions
+- Custom protective packaging  
+- Shock absorption  
+- Lightweight and durable  
+
+### Construction Materials
+- High-density structural boards and blocks  
+- Easy installation  
+- Structural support  
+
+### Insulation Products
+- Thermal efficiency  
+- Moisture-resistant  
+- Fire retardant  
+
+### Custom Solutions
+- Any shape or size  
+- Rapid prototyping  
+- Volume pricing available  
+
+---
+
+## Why Choose StyroFoam
+
+- **Quality Assured** – ISO-certified manufacturing ensures consistent high-quality products  
+- **Nationwide Delivery** – Fast and reliable service across Luzon, Visayas, and Mindanao  
+- **Quick Turnaround** – Efficient production capabilities for shorter lead times  
+- **Industry Expertise** – Over 20 years serving diverse industries  
+- **Eco-Friendly** – Sustainable practices with recyclable materials  
+- **Dedicated Support** – Expert technical team to assist with product selection and customization  
+
+---

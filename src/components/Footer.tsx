@@ -45,7 +45,7 @@ const Footer = () => {
                 <span className="text-primary-foreground font-bold text-lg">S</span>
               </div>
               <div>
-                <span className="font-bold text-xl text-primary-foreground">STYROTECH</span>
+                <span className="font-bold text-xl text-primary-foreground">STYROFOAM</span>
                 <span className="block text-[10px] uppercase tracking-[0.2em] text-primary-foreground/60">Philippines</span>
               </div>
             </div>
@@ -116,7 +116,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-primary-foreground/50 text-sm">
-              © 2024 Styrotech Philippines. All rights reserved.
+              © 2024 StyroFoam Philippines. All rights reserved.
             </p>
             <div className="flex gap-6 text-sm text-primary-foreground/50">
               <a href="#" className="hover:text-primary-foreground transition-colors">Privacy Policy</a>

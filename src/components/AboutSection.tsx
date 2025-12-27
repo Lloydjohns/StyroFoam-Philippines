@@ -69,7 +69,7 @@ const AboutSection = () => {
           {/* Content Side */}
           <div>
             <span className="inline-block text-secondary font-semibold text-sm uppercase tracking-wider mb-4">
-              About Styrotech
+              About StyroFoam
             </span>
             
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-6">
@@ -78,7 +78,7 @@ const AboutSection = () => {
             </h2>
             
             <p className="text-muted-foreground text-lg mb-6 leading-relaxed">
-              For over two decades, Styrotech Philippines has been at the forefront of 
+              For over two decades, StyroFoam Philippines has been at the forefront of 
               expanded polystyrene (EPS) manufacturing. We provide innovative, high-quality 
               foam solutions for packaging, construction, and insulation applications.
             </p>

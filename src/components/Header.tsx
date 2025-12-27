@@ -39,7 +39,7 @@ const Header = () => {
             </div>
             <div className="flex flex-col">
               <span className={`font-bold text-xl tracking-tight transition-colors duration-300 ${isScrolled ? "text-foreground" : "text-primary-foreground"}`}>
-                STYROTECH
+                STYROFOAM
               </span>
               <span className={`text-[10px] uppercase tracking-[0.2em] transition-colors duration-300 ${isScrolled ? "text-muted-foreground" : "text-primary-foreground/70"}`}>
                 Philippines

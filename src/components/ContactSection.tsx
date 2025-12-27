@@ -32,12 +32,12 @@ const ContactSection = () => {
     {
       icon: Phone,
       title: "Call Us",
-      details: ["+63 (2) 8123-4567", "+63 917 123 4567"],
+      details: ["+63123456789", "+63123456789"],
     },
     {
       icon: Mail,
       title: "Email Us",
-      details: ["info@styrotech.ph", "sales@styrotech.ph"],
+      details: ["info@styrofoam.ph", "sales@styrofoam.ph"],
     },
     {
       icon: Clock,
